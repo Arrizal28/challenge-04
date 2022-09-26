@@ -2,6 +2,28 @@
   text-align: center;
 }
 
+.Home {
+  text-align: center;
+}
+
+.btn2 {
+  text-align: center;
+}
+
+.btn3 {
+  text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.3;
+}
+
+.form {
+  text-align: center;
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
